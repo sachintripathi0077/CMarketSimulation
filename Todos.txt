@@ -1,0 +1,3 @@
+Tasks:
+1. build a messaging system that will be used by all other component for inter-component communication.
+2. set-up other components with their definative messsage types.
